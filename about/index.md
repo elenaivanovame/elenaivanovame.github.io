@@ -7,16 +7,18 @@ image:
   feature: greenwich-pano.png
 ---
 
-I'm Elena, Russian tutor & English translator. I've been living in United Kingdom since 2007, in sunny Essex :).
+<div style="float: left; padding: 10px;" >
+	<a href="{{ site.url }}/" class="bio-photo" rel="home" title="{{ site.title }}">
+		<img src="{{ site.url }}/images/{{ site.logo }}" class="bio-photo" alt="{{ site.title }} bio photo">
+	</a>
+</div>
 
-My interests are (but not limited to :) :
+I'm Elena, Russian tutor & English translator, and I've been living in the United Kingdom since 2007, when I moved to sunny Essex :) from Russia.
 
-* Linguistics
-* British culture
-* World history
+My interests are (but not limited to :): linguistics, British culture, world history.
 
-Currently I'm enjoying learning Italian and French as a hobby.
+Currently I enjoy learning Italian and French as a hobby.
 
-### Personal Mission
+#### Personal Mission
 
-Creative communication to promote tolerance between individuals and nations, that is essential to a peaceful future on the planet.
+Creative communication to promote tolerance between individuals and nations, that is essential to a peaceful future of the planet.
