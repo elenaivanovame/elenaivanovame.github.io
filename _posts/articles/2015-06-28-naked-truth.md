@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Голая правда
-excerpt: "5 причин вспомнить про костюм Адама и Евы."
-modified: 2015-06-28
+excerpt: "6 причин вспомнить про костюм Адама и Евы."
+modified: 2015-06-29
 categories: articles
 tags: [Британия]
 image:
