@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Elena Ivanova
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   email: ellingvo@gmail.com
   disqus-shortname: disqus_Np75VoaSf9
   twitter: #username
