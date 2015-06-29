@@ -35,9 +35,9 @@ owner:
   name: Elena Ivanova
   avatar: bio-photo.jpg
   email: ellingvo@gmail.com
-  disqus-shortname:
+  disqus-shortname: disqus_Np75VoaSf9
   twitter: #username
-  facebook: #username
+  facebook: 1470427877
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
@@ -47,7 +47,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: 100627035378868774317
     analytics:
     verify:
     ad-client:
