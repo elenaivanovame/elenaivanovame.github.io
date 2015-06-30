@@ -6,9 +6,9 @@ modified: 2015-06-29
 categories: articles
 tags: [Британия]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: naked-bikes-london.jpg
+  credit: Mark Thomas/REX
+  creditlink: http://metro.co.uk/2014/06/16/pictures-world-naked-bike-ride-2014-london-4763325/
 comments: true
 share: true
 ---
