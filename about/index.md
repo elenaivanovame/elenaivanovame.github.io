@@ -4,7 +4,7 @@ title: About the Author
 excerpt: ""
 modified: 2015-06-22T22:01:00.564948+01:00
 image:
-  feature: greenwich-pano.png
+  feature: greenwich-panorama-highres.png
 ---
 
 <div style="float: left; padding: 10px;" >
