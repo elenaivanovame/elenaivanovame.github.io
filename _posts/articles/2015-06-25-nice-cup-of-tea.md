@@ -150,7 +150,7 @@ share: true
 
 
 
-#### Ссылки
+#### Источники
 {:.no_toc}
 
 1. Daily Mail: [So how do YOU like your cup of tea? Britain divided on how much milk to put in your cuppa](http://www.dailymail.co.uk/news/article-2313266/So-YOU-like-cup-tea-Britain-divided-milk-cuppa.html)
